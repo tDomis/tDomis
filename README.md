@@ -1,7 +1,12 @@
-- 👋 Hi, I’m Domis
-- 👀 I’m interested in c# c++ python
-- 🌱 I’m currently learning c#
-- 📫 How to reach me on discord Domis#2661
+🌟 Web Developer | Database Admin | Creative Technologist 🌟
+
+I'm Dominykas, a web developer with 5+ years of experience in crafting seamless websites and managing databases. I’m passionate about designing clean, functional, and visually engaging web experiences.
+
+
+⚙️ Skilled in WordPress, WooCommerce, Elementor, and custom development
+🔧 Focused on optimizing performance and enhancing user experience
+🎨 Lover of clean code, creative problem-solving, and pixel-perfect design
+Always looking to collaborate and learn something new!
 
 <!---
 tDomis/tDomis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
